@@ -1,4 +1,4 @@
-# 🍽️ Food Menu
+# Food Menu
 
 A Flutter application that allows users to explore food recipes from different countries around the world through an intuitive and visually appealing interface.
 
